@@ -1,4 +1,9 @@
 
+
+## working title: 
+
+ADAPTABILITY The new architectures of business 
+
 # Building the Future of Optimization
 
 This repository contains early drafts, research notes, and structural outlines for my upcoming book on modern operations research — a practical, forward‑looking exploration of how optimization shapes systems, industries, and decision‑making in the 21st century.

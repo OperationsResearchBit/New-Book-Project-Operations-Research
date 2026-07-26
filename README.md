@@ -57,4 +57,4 @@ How optimization and modeling solve real problems across industries today.
 
 more:
 
-https://medium.com/operations-research-gig/optimization-technologies-engines-of-performance-ea6aa1eddb5c
+https://medium.com/operations-research-gig/optimization-technologies-engines-of-performance-ea6aa1eddb5c?sk=a55f7ab3a3fd9009a40ac25c2b5287cd

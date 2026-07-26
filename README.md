@@ -54,3 +54,7 @@ How optimization and modeling solve real problems across industries today.
 * **Healthcare resource allocation**
 * **Pricing, forecasting, and marketplace design**
 * **Autonomous systems and agentic decision engines**
+
+more:
+
+https://medium.com/operations-research-gig/optimization-technologies-engines-of-performance-ea6aa1eddb5c

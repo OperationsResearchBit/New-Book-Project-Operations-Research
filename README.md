@@ -58,3 +58,7 @@ How optimization and modeling solve real problems across industries today.
 more:
 
 https://medium.com/operations-research-gig/optimization-technologies-engines-of-performance-ea6aa1eddb5c?sk=a55f7ab3a3fd9009a40ac25c2b5287cd
+
+https://medium.com/operations-research-gig/the-rise-of-the-master-query-how-global-data-fabric-is-powering-the-ultimate-ai-collab-8eea1e7ebdc5
+
+https://medium.com/operations-research-gig/applying-optimization-metrics-across-industries-fab2280c743f

@@ -1,1 +1,6 @@
 
+calculus . .
+LP . .
+applied mathematics . .
+
+
